@@ -1,2 +1,4 @@
 // Write an app
-
+ins1;
+ins2;
+ins3;
