@@ -4,3 +4,5 @@ ins2;
 ins3;
 insN;
 insW;
+
+NO ERROR!
