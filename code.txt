@@ -4,3 +4,5 @@ ins2;
 ins3;
 insN;
 insZ;
+
+ERROR;
